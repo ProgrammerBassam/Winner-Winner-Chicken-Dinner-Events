@@ -1,11 +1,11 @@
 {
     "messages": [
         {
-            "image": "",
-            "info": "",
-            "s_title": "",
-            "title": "",
-            "url": ""
+            "image": "https://raw.githubusercontent.com/ProgrammerBassam/Winner-Winner-Chicken-Dinner-Events/master/Artboard%201xxxhdpi.png",
+            "info": "معلومات تجريبي",
+            "s_title": "عنوان فرعي تجريبي",
+            "title": "عنوان تجريبي",
+            "url": "https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn"
         }
     ]
 }
